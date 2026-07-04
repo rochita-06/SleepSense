@@ -7,3 +7,8 @@
 | 🚨 Eyes closed ≥ 2.5s | 🔴 Red bar | Pulsing red overlay + alarm sound |
 
 
+# SleepSense
+## Contributor
+- Sathwik 🚀
+## Update 2
+- Added co-author contribution
