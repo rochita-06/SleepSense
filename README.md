@@ -7,4 +7,4 @@
 | 🚨 Eyes closed >=2.5s | 🔴 Red bar | Pulsing red overlay + alarm sound |
 
 
-
+Updated by collaborator..
