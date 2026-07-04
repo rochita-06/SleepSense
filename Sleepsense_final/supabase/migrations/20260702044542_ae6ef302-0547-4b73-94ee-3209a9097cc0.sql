@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS agent_name TEXT DEFAULT 'Nova';
