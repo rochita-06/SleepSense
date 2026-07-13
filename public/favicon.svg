@@ -1,0 +1,6 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#7bae7f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Eye shape outline -->
+  <path d="M 32 14 C 44 14 54 32 54 32 C 54 32 44 50 32 50 C 20 50 10 32 10 32 C 10 32 20 14 32 14" />
+  <!-- Pupil circle -->
+  <circle cx="32" cy="32" r="6" fill="#7bae7f" />
+</svg>
