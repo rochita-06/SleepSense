@@ -3,6 +3,11 @@
 SleepGuard AI is a web application that combines an AI assistant with productivity tools to help users stay focused and alert. It integrates chat, sleep monitoring, and task management into a single platform.
 
 ---
+## 🌐 Live Demo
+
+🚀 Try the app here: https://sleep-sense-2706.vercel.app
+
+---
 
 ## 🚀 Features
 
