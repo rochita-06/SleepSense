@@ -81,8 +81,8 @@ export function useSpeech() {
     if (v) u.voice = v;
     // Wider pitch/rate gap so the two remain clearly distinguishable even on
     // devices that only expose a single underlying voice.
-    u.rate = gender === "male" ? 0.95 : 1.05;
-    u.pitch = gender === "male" ? 0.7 : 1.35;
+    u.rate = gender === "male" ? 0.8 : 1.2;
+    u.pitch = gender === "male" ? 0.5 : 1.6;
     u.onstart = () => setSpeaking(true);
     u.onend = () => setSpeaking(false);
     u.onerror = () => setSpeaking(false);
