@@ -1,10 +1,6 @@
 -- SleepSense schema for Neon Postgres.
 -- Run this once against your Neon database before using the app:
 -- open the Neon SQL Editor (or `psql "$DATABASE_URL" -f db/schema.sql`) and run it.
---
--- This replaces Supabase's auth.users + Row Level Security with a plain
--- `users` table and app-level authorization (every query in
--- src/lib/*.functions.ts is scoped to the userId taken from the verified JWT).
 
 CREATE EXTENSION IF NOT EXISTS pgcrypto;
 
